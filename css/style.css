@@ -369,6 +369,7 @@ button {
 
     .hero-container {
         padding: 5rem 1rem;
+        row-gap: 4rem;
     }
 
     .hero-image {
